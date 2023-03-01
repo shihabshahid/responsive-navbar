@@ -33,6 +33,7 @@ ul li a{
 	color:steelblue;
 	font-size:30px;
 	display:none;
+	cursor: pointer;
 }
 @media(max-width:768px){
 	.toggle{
